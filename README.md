@@ -48,4 +48,4 @@ Commit your Changes (git commit -m 'Add some AmazingFeature')
 Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request
 
-Project Link: https://github.com/AvilashBhomick12/Ai-Voice-Assistant
+Project Link: https://github.com/AvilashBhowmick12/Ai-Voice-Assistant
